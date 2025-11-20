@@ -5,7 +5,6 @@
 🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
 🔍 Exploring modern frameworks and tools for next-generation software development  
 🛠️ Passionate about building impactful, data-driven, and real-world tech solutions  
-🌱 Currently enrolled in the **Microsoft 365 Copilot Program** by **Agent X**, in collaboration with **Microsoft Learn**
 
 ---
 
@@ -58,6 +57,32 @@ My long-term goal is to **contribute to high-impact products**, **shape scalable
 
 ---
 
+## 🧠 Agentic AI Projects – Skills Gained
+
+<p align="left">
+
+  <!-- Agentic AI -->
+  <img src="https://img.shields.io/badge/Agentic_AI-1E90FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi_Agent_Systems-FF4500?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Planning / Automation -->
+  <img src="https://img.shields.io/badge/Task_Planning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-228B22?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- LangChain / LangGraph / LLMs -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/gpt_oss-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq_Cloud-00BFFF?style=for-the-badge" />
+
+  <!-- Architecture -->
+  <img src="https://img.shields.io/badge/System_Architecture-DAA520?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/State_Management-20B2AA?style=for-the-badge" />
+
+</p>
+
+---
+
 ## 🚀 I’m Open To Collaborate On
 - 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
 - 💻 **Full-Stack Web Development** — MERN stack, REST APIs, and modern UI/UX  
@@ -78,9 +103,9 @@ My long-term goal is to **contribute to high-impact products**, **shape scalable
 ## 📈 GitHub Stats & Skills Level-Up
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Kamran-H-Shomrat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Kamran-H-Shomrat&show_icons=true&theme=radical&hide_border=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran-H-Shomrat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran-H-Shomrat&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -88,11 +113,11 @@ My long-term goal is to **contribute to high-impact products**, **shape scalable
 ## 🚀 Skills Progress
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
+  <img src="https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN_Stack-70%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
+  <img src="https://img.shields.io/badge/MERN_Stack-70%25-blueviolet?style=for-the-badge" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded_Systems-65%25-orange?style=for-the-badge" alt="Embedded Skill" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-65%25-orange?style=for-the-badge" />
 </p>
